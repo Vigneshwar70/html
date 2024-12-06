@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(169, 169, 169);
+    /* overflow-x: hidden; */
+}
+.navbar{
+    background-color: rgb(255, 255, 255);
+    padding-left: 150px;
+}
+.navbar .navbar-brand img{
+   border-radius: 20px;
+}
+.navbar .d-flex input{
+    font-style: italic;
+    border-radius: 40px;
+    padding-right: 200px;
+    background-color: rgb(236, 235, 235);
+    color: aliceblue;  
+}
+.navbar .d-flex button{
+    background-color: aliceblue;
+    border-radius: 40px;
+    font-style: italic;
+    color: black;
+}
+.container-fluid0{
+    background-color: white;
+    color: black;
+    font-style: italic;
+    padding-top: 40px;
+}
+.container-fluid0 input{
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(199, 201, 203);
+    width: 300px;
+    text-align: center;
+
+}
+.img-fluid{
+    height: 650px;
+    width: 1533px;
+}
+.mode img{
+    height:600px ;
+}
+.zara img{
+    height: 600px;
+}
+.container-fluid0 {
+    height: 300px;
+    background-color: rgb(74, 75, 75);
+}
+.container-fluid0 h3{
+    color: white;
+}
+.container-fluid0 .sing{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.container-fluid0 .sing0{
+    color: white;
+    padding: 50px;
+}
+.container-fluid0 .sing1 button{
+    margin-top: 60px;
+    height: 50px;
+    width: 100px;
+    border-radius: 30px;
+ 
+}
+

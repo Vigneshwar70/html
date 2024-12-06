@@ -1,0 +1,36 @@
+body{
+    background-color: white(221, 224, 226, 0.373);
+    overflow-x: hidden;
+}
+.navbar{
+   background-color: rgb(158, 155, 155);
+    padding-left: 150px;
+}
+.navbar .navbar-brand img{
+    border-radius: 20px;
+}
+.navbar .d-flex input{
+    padding-right: 100px;
+    font-style: italic;
+    border-radius: 40px;
+}
+.navbar .d-flex button{
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+.para{
+    height: 40px;
+    padding-left: 250px;
+    background-color: white;
+    padding-top: 10px;
+}
+.row .card{
+    outline: transparent;
+
+}
+.container{
+    background-color: rgb(189, 188, 188);
+}
+

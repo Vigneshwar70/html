@@ -1,0 +1,43 @@
+/* body{
+    background-image: url(img.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.info{
+    height: 500px;
+    background-color: white;
+    margin-top: 100px;
+    width: 600px;
+    margin-left: 500px;
+    border-radius: 50px;
+}
+.info h1{
+    text-align: center;
+    padding-top: 50px;
+    font-style: italic;
+}
+.info label{
+    padding-left: 75px;
+    font-style: italic;
+}
+.info input{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-style: italic;
+}
+.info button{
+    margin-left: 240px;
+    margin-top: 40px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 20px;
+    background-color: green;
+    color: black;
+}
+.info1 label{
+    padding-left: 480px;
+    margin-top: -230px;
+    position: absolute;
+    font-style: italic;
+} */

@@ -1,0 +1,64 @@
+nav{
+    background-color: transparent;
+}
+div{
+    background-color: transparent;
+}
+.navbar input{
+    margin-left: 200px;
+    width: 700px;
+    margin-top: 50px;
+    border-radius: 20px; 
+}
+.navbar button{
+    margin-top: 50px;
+    border-radius: 20px;
+}
+.home{
+    list-style: none;
+    display: block;
+    height: 50px;
+    width: 700px;
+    margin-top: -10px;
+    margin-left: 200px;
+}
+.home ol{
+    display: block;
+}
+.home li{
+    display: inline;
+    padding: 20px;
+}
+.home hr{
+    margin-left:-210px;
+    margin-top: -10px;
+}
+.home ol li:hover{
+    color: red;
+    cursor:default;
+}
+.row{
+    width: 700px; 
+}
+.row h5{
+    padding-left: 250px;
+    color: blue;
+}
+.row p{
+    padding-left: 250px;
+}
+.row h5:hover{
+    color:red;
+    cursor:default;
+}
+.card-body{
+    padding-left: 240px;
+    color: blue;
+}
+.card-body:hover{
+    color: red;
+    cursor: default;
+}
+.card-body p{
+    color: black;
+}
